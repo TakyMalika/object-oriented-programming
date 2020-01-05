@@ -1,0 +1,9 @@
+customer
+101
+Charlie Brown
+New York
+preferred customer
+200
+Elizabeth Taylor
+Los Angeles
+41300.00
